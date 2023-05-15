@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coffeeshop-react-bootstrap/static/css/main.3ad9713c.css",
-    "main.js": "/coffeeshop-react-bootstrap/static/js/main.3e0492c1.js",
+    "main.js": "/coffeeshop-react-bootstrap/static/js/main.3dbe78fc.js",
     "static/js/787.6b6d1ab4.chunk.js": "/coffeeshop-react-bootstrap/static/js/787.6b6d1ab4.chunk.js",
     "static/media/homepage-bg.jpg": "/coffeeshop-react-bootstrap/static/media/homepage-bg.bd0e0072707c49b88468.jpg",
     "static/media/menu-tea.jpg": "/coffeeshop-react-bootstrap/static/media/menu-tea.dde6d7749603b713293f.jpg",
@@ -25,11 +25,11 @@
     "static/media/Poppins-Regular.woff2": "/coffeeshop-react-bootstrap/static/media/Poppins-Regular.5a6c15af2151cfa27e76.woff2",
     "index.html": "/coffeeshop-react-bootstrap/index.html",
     "main.3ad9713c.css.map": "/coffeeshop-react-bootstrap/static/css/main.3ad9713c.css.map",
-    "main.3e0492c1.js.map": "/coffeeshop-react-bootstrap/static/js/main.3e0492c1.js.map",
+    "main.3dbe78fc.js.map": "/coffeeshop-react-bootstrap/static/js/main.3dbe78fc.js.map",
     "787.6b6d1ab4.chunk.js.map": "/coffeeshop-react-bootstrap/static/js/787.6b6d1ab4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ad9713c.css",
-    "static/js/main.3e0492c1.js"
+    "static/js/main.3dbe78fc.js"
   ]
 }
