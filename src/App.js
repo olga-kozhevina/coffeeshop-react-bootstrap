@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import HomePage from './components/HomePage';
 import MenuPage from './components/MenuPage/MenuPage';
@@ -9,10 +9,13 @@ import EventsPage from './components/EventsPage/EventsPage';
 import SubscriptionForm from './components/SubscriptionForm';
 
 function App() {
+  const location = useLocation();
+  let basename = location.pathname === '/' ? '' : '/coffeeshop-react-bootstrap';
+
   return (
       <div>
         <Navbar />
-        <Routes>
+        <Routes basename={basename}>
           <Route path="/" element={<HomePage />} />
           <Route path="/menu" element={<MenuPage />} />
           <Route path="/about" element={<AboutUsPage />} />
