@@ -1,0 +1,15 @@
+.menu-card-img {
+  height: 280px;
+  object-fit: cover;
+  object-position: center;
+  cursor: pointer;
+  opacity: 1;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.menu-card-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

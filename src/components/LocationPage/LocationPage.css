@@ -1,0 +1,22 @@
+.social-icon {
+    margin-right: 15px;
+    color: #000;
+    transition: color 0.3s, transform 0.3s ease-in-out 0.1s;
+  }
+  
+  .social-icon:hover {
+    color: #007bff;
+  }  
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+  }
+  
+  .map-container {
+    width: 100%; 
+    height: 300px; 
+    border-radius: 6px;
+    overflow: hidden;
+  }
