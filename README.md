@@ -22,4 +22,4 @@
 **Подключение**    
 
 Посетите мой виртуальный кофейный магазин прямо сейчас!   
-Просто перейдите по следующей ссылке: olpom.github.io/coffeeshop-react-bootstrap/
+Просто перейдите по следующей [ссылке](olpom.github.io/coffeeshop-react-bootstrap/)
